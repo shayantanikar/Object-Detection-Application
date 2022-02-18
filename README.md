@@ -7,4 +7,4 @@
 •	Custom object detection model to detect the ingredients of a meal using a dataset called salad and TFLite Model Maker.
 •	Deployed the model to the Android app using TFLite Task Library.
 
-![alt text](screenshot.jpg)
+![alt text](screenshot.jpeg)
